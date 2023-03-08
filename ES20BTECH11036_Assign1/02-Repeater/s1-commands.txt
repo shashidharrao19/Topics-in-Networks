@@ -1,0 +1,2 @@
+table_add mat modify_egress_spec 1 => 2
+table_add mat modify_egress_spec 2 => 1
